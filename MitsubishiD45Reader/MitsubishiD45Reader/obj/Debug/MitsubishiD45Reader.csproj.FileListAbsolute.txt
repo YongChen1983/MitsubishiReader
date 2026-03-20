@@ -1,0 +1,23 @@
+C:\Users\ychen\Desktop\新建文件夹 (3)\MitsubishiD45Reader\obj\Debug\MitsubishiD45Reader.csproj.AssemblyReference.cache
+C:\Users\ychen\Desktop\新建文件夹 (3)\MitsubishiD45Reader\obj\Debug\MitsubishiD45Reader.csproj.CoreCompileInputs.cache
+C:\Users\ychen\Desktop\新建文件夹 (3)\MitsubishiD45Reader\bin\Debug\MitsubishiD45Reader.exe
+C:\Users\ychen\Desktop\新建文件夹 (3)\MitsubishiD45Reader\bin\Debug\MitsubishiD45Reader.pdb
+C:\Users\ychen\Desktop\新建文件夹 (3)\MitsubishiD45Reader\obj\Debug\MitsubishiD45Reader.exe
+C:\Users\ychen\Desktop\新建文件夹 (3)\MitsubishiD45Reader\obj\Debug\MitsubishiD45Reader.pdb
+C:\Users\ychen\Desktop\新建文件夹 (3)\MitsubishiD45Reader\obj\Debug\MitsubishiD45Reader.Form1.resources
+C:\Users\ychen\Desktop\新建文件夹 (3)\MitsubishiD45Reader\obj\Debug\MitsubishiD45Reader.csproj.GenerateResource.cache
+C:\Users\ychen\Desktop\新建文件夹 (3)\MitsubishiD45Reader\bin\Debug\ActUtlTypeLib.dll
+C:\Users\ychen\Desktop\新建文件夹 (3)\MitsubishiD45Reader\obj\Debug\Mitsubis.9D10ECE2.Up2Date
+C:\Users\ychen\Desktop\新建文件夹 (3)\MitsubishiD45Reader\bin\Debug_temp\MitsubishiD45Reader.exe
+C:\Users\ychen\Desktop\新建文件夹 (3)\MitsubishiD45Reader\bin\Debug_temp\MitsubishiD45Reader.pdb
+C:\Users\ychen\Desktop\新建文件夹 (3)\MitsubishiD45Reader\bin\Debug_temp\ActUtlTypeLib.dll
+C:\Users\ychen\Desktop\Git\MitsubishiD45Reader\MitsubishiD45Reader\bin\Debug\MitsubishiD45Reader.exe
+C:\Users\ychen\Desktop\Git\MitsubishiD45Reader\MitsubishiD45Reader\bin\Debug\MitsubishiD45Reader.pdb
+C:\Users\ychen\Desktop\Git\MitsubishiD45Reader\MitsubishiD45Reader\bin\Debug\ActUtlTypeLib.dll
+C:\Users\ychen\Desktop\Git\MitsubishiD45Reader\MitsubishiD45Reader\obj\Debug\MitsubishiD45Reader.csproj.AssemblyReference.cache
+C:\Users\ychen\Desktop\Git\MitsubishiD45Reader\MitsubishiD45Reader\obj\Debug\MitsubishiD45Reader.MitsubishiReade.resources
+C:\Users\ychen\Desktop\Git\MitsubishiD45Reader\MitsubishiD45Reader\obj\Debug\MitsubishiD45Reader.csproj.GenerateResource.cache
+C:\Users\ychen\Desktop\Git\MitsubishiD45Reader\MitsubishiD45Reader\obj\Debug\MitsubishiD45Reader.csproj.CoreCompileInputs.cache
+C:\Users\ychen\Desktop\Git\MitsubishiD45Reader\MitsubishiD45Reader\obj\Debug\Mitsubis.9D10ECE2.Up2Date
+C:\Users\ychen\Desktop\Git\MitsubishiD45Reader\MitsubishiD45Reader\obj\Debug\MitsubishiD45Reader.exe
+C:\Users\ychen\Desktop\Git\MitsubishiD45Reader\MitsubishiD45Reader\obj\Debug\MitsubishiD45Reader.pdb
