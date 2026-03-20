@@ -1,4 +1,4 @@
-# 三菱 MX Component 读取 D45 - C# 示例
+# 三菱 MX Component 读取与写入 - C# 示例
 
 使用三菱 **MX Component** 连接 PLC 并读取 **D45** 寄存器值的 Windows 窗体程序。
 
